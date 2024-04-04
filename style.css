@@ -4,7 +4,7 @@
         margin-top: 0;
     }
     .index{
-        background-image: url(images/pexels-george-milton-6953870.jpg);
+        background-image: url(pexels-george-milton-6953870.jpg);
         filter: brightness(50%);
         background-size: cover;
         background-position: center center;
@@ -87,7 +87,7 @@
     .image{
         height: 800px;
         width: 50%;
-        background-image: url(images/office.jpg);
+        background-image: url(office.jpg);
         background-size: cover;
         background-position: center center;
     }
@@ -108,7 +108,7 @@
     }
     .left{
         width: 87%;
-        background-image: url(images/photo-1587560699334-bea93391dcef.jpeg);
+        background-image: url(photo-1587560699334-bea93391dcef.jpeg);
         height: 800px;
         background-size: cover;
         background-position: center center;
@@ -175,7 +175,7 @@
         padding-top: 20px;
     }
     .trg2{
-        background-image: url(images/photo-1615458317303-4bb49df432cc.jpeg);
+        background-image: url(photo-1615458317303-4bb49df432cc.jpeg);
         height: 800px;
         background-size: cover;
         background-position: center center;
